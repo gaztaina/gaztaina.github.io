@@ -7,6 +7,9 @@ _site
 .DS_Store
 Thumbs.db
 ehthumbs.db
+vendor
+.bundle
+.jekyll-metadata
 
 Gemfile.lock
 
