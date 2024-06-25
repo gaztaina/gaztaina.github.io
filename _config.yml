@@ -20,12 +20,12 @@ author: Gaztaina Elkartea
 ###############################################
 
 navbar-links:
-  #  Elkartea: "static/elkartea"
   Châtaigneraies:
     - Châtaigneraies: "static/ge_gaztandeiak_map.html"
-    - Vergers GE: "static/ge_gaztandeiak_map.html"
-  Variétés etc.: 
-    - Arbres souche: "static/ge_gaztandeiak_map.html"
+    - Vergers GE: "static/ge_landaketak.html"
+  Variétés GE: 
+    - Variétés: "static/ge_barietateak.html"
+    - Arbres souche: "static/ge_sorburuak.html"
  
 ################
 # --- Logo --- #
