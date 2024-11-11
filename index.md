@@ -12,4 +12,4 @@ subtitle: (...)
 ## Variétés
 
 - [Variétés référencées par GE](static/ge_barietateak.html)
-- [Carte avec les arbres souche étudiés par GE](static/ge_barietateak.html)
+- [Carte avec les arbres souche étudiés par GE](static/ge_sorburuak.html)
